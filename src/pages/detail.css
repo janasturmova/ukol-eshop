@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 300px;
+}
+
+.box {
+  display: flex;
+  flex-direction: row-reverse;
+  max-width: 800px;
+  margin: auto;
+  margin-top: 100px;
+  justify-content: space-between;
+}
+
+.container {
+  background-color: aliceblue;
+  padding-bottom: 100px;
+}
+
+img {
+  border: 1px solid rgb(190, 147, 231);
+  border-radius: 10px;
+  margin-bottom: 50px;
+}

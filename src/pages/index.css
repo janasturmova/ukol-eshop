@@ -1,0 +1,25 @@
+
+.container {
+    background-color: aliceblue;
+    padding-bottom: 100px;
+  }
+
+.box-home {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 200px 200px;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.btn {
+    width: 150px;
+    height: 30px;
+}
+
+.headline-main {
+    text-align: center;
+}

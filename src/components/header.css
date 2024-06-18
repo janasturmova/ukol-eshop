@@ -1,0 +1,24 @@
+
+header {
+    margin: auto;
+    max-width: 1000px;
+    background-image: url(../img/foto.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: bottom left;
+    padding: 100px;
+    margin-bottom: 100px;
+}
+
+.headline-header {
+    margin: 0;
+    padding-bottom: 0;
+    font-size: 50px;
+}
+
+.second-headline {
+    margin: 0;
+    font-size: larger;
+    font-weight: 300;
+}
